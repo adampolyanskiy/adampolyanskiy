@@ -27,9 +27,9 @@ CLOUD & DEVOPS: Azure (App Services, Azure Functions, Azure SQL Database), AWS (
 RDS, ECS/EKS), Docker, Kubernetes, RabbitMQ, Jenkins, GitLab, Bitbucket, Grafana, Elasticsearch
 OTHER: Angular, React, Vue, HTML, CSS, JavaScript/TypeScript, Agile/Scrum, Swagger, Postman
 ```
-## E X P E R I E N C E
+## EXPERIENCE
 
-### E Y E R I D E: 08 / 2 0 2 2 - P R E S E N T , 2 .5+ YE A RS
+### EYERIDE: 08 / 2022 - PRESENT , 2 .5+ YE A RS
 
 - Led migration of legacy AngularJS web application to the newest version of Angular
 - Optimized .NET Core microservices for video streaming, leveraging hardware-accelerated codecs,
@@ -45,7 +45,7 @@ OTHER: Angular, React, Vue, HTML, CSS, JavaScript/TypeScript, Agile/Scrum, Swagg
 - Technologies: C#, .NET 6 +, ASP.NET Core, Docker, Kubernetes, Grafana, Elasticsearch, AWS, MSTest,
     Jenkins, Angular
 
-### AXOFT: 08 / 2 0 20 - 07 / 2 0 2 2 , 2 YEARS
+### AXOFT: 08 / 2020 - 07 / 2022, 2 YEARS
 
 - Led development of BI web application using .NET and React
 - Designed and developed a real-time service availability notification system using SignalR and
@@ -61,7 +61,7 @@ OTHER: Angular, React, Vue, HTML, CSS, JavaScript/TypeScript, Agile/Scrum, Swagg
     with improved system scalability
 - Technologies: C#, .NET 6+, Docker, Azure, MSTest, PostgreSQL, Vue, React
 
-### P A Y E V E R: 0 6 / 2 0 19 – 08 / 2 0 2 0 , 1 YEAR
+### PAYEVER: 06 / 2019 – 08 / 2020 , 1 YEAR
 
 - Design and developed an installment payment service^ using C#, ASP.NET Core, and RabbitMQ,
     enhancing the checkout experience, which increased successful checkouts by 13 %
@@ -70,7 +70,7 @@ OTHER: Angular, React, Vue, HTML, CSS, JavaScript/TypeScript, Agile/Scrum, Swagg
 - Technologies: C#, ASP.NET Core, RabbitMQ, HTML, CSS, Angular, xUnit, Bitbucket
 
 
-## E D U C A T I O N
+## EDUCATION
 
 #### TUSUR, TOMSK — BACHELOR, 2017 - 2021
 
