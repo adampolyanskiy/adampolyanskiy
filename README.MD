@@ -22,8 +22,10 @@ ready systems, focusing on writing clean, efficient code that follows best pract
 ```
 .NET & BACKEND: C#, .NET 6+, ASP.NET Core, RESTful APIs, Microservices, Entity Framework Core,
 PostgreSQL, Redis, MSTest, SignalR, WebSockets, OpenID, OAuth 2.
+
 CLOUD & DEVOPS: Azure (App Services, Azure Functions, Azure SQL Database), AWS (EC2, Lambda, S3,
 RDS, ECS/EKS), Docker, Kubernetes, RabbitMQ, Jenkins, GitLab, Bitbucket, Grafana, Elasticsearch
+
 OTHER: Angular, React, Vue, HTML, CSS, JavaScript/TypeScript, Agile/Scrum, Swagger, Postman
 ```
 ## EXPERIENCE
