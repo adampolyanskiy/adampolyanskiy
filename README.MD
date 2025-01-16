@@ -1,8 +1,7 @@
-# AD A M P O L Y A N S K I Y
+# ADAM POLYANSKIY
 
 ```
-C#/.NET/Angular/React Developer, 5
-years+ of experience
+C#/.NET/Angular/React Developer, 5 years+ of experience
 + 995 (568) 762- 952
 GMT +3
 ```
