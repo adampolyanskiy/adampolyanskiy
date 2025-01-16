@@ -7,10 +7,7 @@ years+ of experience
 GMT +3
 ```
 
-```
-## A B O U T
-```
-
+## S K I L L S
 ```
 Software developer with 5 years+ of commercial experience, working in agile teams ranging from 4 to
 20 members, both remotely and on-site. I have 1 year of team-leading experience and love mentoring
