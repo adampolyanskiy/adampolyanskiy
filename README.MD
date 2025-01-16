@@ -4,10 +4,9 @@
 C#/.NET/Angular/React Developer, 5
 years+ of experience
 + 995 (568) 762- 952
-GMT+ 3
+GMT +3
 ```
-```
-adampolyanskiy@gmail.com LinkedIn GitHub
+
 ```
 ## A B O U T
 
