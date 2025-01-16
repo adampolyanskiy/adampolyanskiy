@@ -42,7 +42,7 @@ OTHER: Angular, React, Vue, HTML, CSS, JavaScript/TypeScript, Agile/Scrum, Swagg
     required to access performance insights by 35% and improving issue diagnosis efficiency
 - Integrated Google, Apple, and Microsoft authentication with the company’s custom OpenID and
     OAuth 2.0 server, reducing login-related support tickets by 12.5%
-    Technologies: C#, .NET 6 +, ASP.NET Core, Docker, Kubernetes, Grafana, Elasticsearch, AWS, MSTest,
+- Technologies: C#, .NET 6 +, ASP.NET Core, Docker, Kubernetes, Grafana, Elasticsearch, AWS, MSTest,
     Jenkins, Angular
 
 ### AXOFT: 08 / 2 0 20 - 07 / 2 0 2 2 , 2 YEARS
@@ -59,7 +59,7 @@ OTHER: Angular, React, Vue, HTML, CSS, JavaScript/TypeScript, Agile/Scrum, Swagg
 - Refactored legacy monolithic components into Docker^ containerized microservices, deployed on
     Azure Cloud, reducing deployment time by 27 % and enabling faster, more frequent release cycles
     with improved system scalability
-    Technologies: C#, .NET 6+, Docker, Azure, MSTest, PostgreSQL, Vue, React
+- Technologies: C#, .NET 6+, Docker, Azure, MSTest, PostgreSQL, Vue, React
 
 ### P A Y E V E R: 0 6 / 2 0 19 – 08 / 2 0 2 0 , 1 YEAR
 
@@ -67,7 +67,7 @@ OTHER: Angular, React, Vue, HTML, CSS, JavaScript/TypeScript, Agile/Scrum, Swagg
     enhancing the checkout experience, which increased successful checkouts by 13 %
 - Built a link reminder system using scheduled tasks to send automated email reminders for unpaid Pay
     by Link transactions. This led to a 5% reduction in abandoned payments
-    Technologies: C#, ASP.NET Core, RabbitMQ, HTML, CSS, Angular, xUnit, Bitbucket
+- Technologies: C#, ASP.NET Core, RabbitMQ, HTML, CSS, Angular, xUnit, Bitbucket
 
 
 ## E D U C A T I O N
