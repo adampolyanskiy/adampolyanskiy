@@ -9,6 +9,7 @@ GMT +3
 
 ```
 ## A B O U T
+```
 
 ```
 Software developer with 5 years+ of commercial experience, working in agile teams ranging from 4 to
