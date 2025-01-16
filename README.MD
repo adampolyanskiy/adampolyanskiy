@@ -72,8 +72,8 @@ OTHER: Angular, React, Vue, HTML, CSS, JavaScript/TypeScript, Agile/Scrum, Swagg
 
 ## E D U C A T I O N
 
-#### TUSUR, TOMSK — B ACHE LOR, 2017 - 2021
+#### TUSUR, TOMSK — BACHELOR, 2017 - 2021
 
 Engineering
-TOMSK STATE UNIVE RSI T Y, TOMSK — MASTE R, 2021 – 2023
+TOMSK STATE UNIVERSITY, TOMSK — MASTER, 2021 – 2023
 Computer Science
