@@ -1,8 +1,8 @@
 # Adam Polyanskiy
 
 C#/.NET Backend Developer | 5+ Years of Experience  
-📍 GMT+4 | 📧 [adampolyanskiy@gmail.com](mailto:adampolyanskiy@gmail.com)  
-[LinkedIn](https://www.linkedin.com) | [GitHub](https://github.com)
+📍 GMT+4 | 📧 [adampolyanskiy@gmail.com](mailto:adampolyanskiy@gmail.com)
+[LinkedIn](www.linkedin.com/in/adampolyanskiy) | [GitHub](https://github.com/adampolyanskiy)
 
 ---
 
@@ -91,4 +91,4 @@ _Technologies_: C#, ASP.NET Core, RabbitMQ, HTML, CSS, Angular, xUnit, Bitbucket
 
 ## 🔗 Let's Connect!
 
-Feel free to reach out via [email](mailto:adampolyanskiy@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com).
+Feel free to reach out via [email](mailto:adampolyanskiy@gmail.com) or connect with me on [LinkedIn](www.linkedin.com/in/adampolyanskiy).
