@@ -89,12 +89,6 @@ _Technologies_: C#, ASP.NET Core, RabbitMQ, HTML, CSS, Angular, xUnit, Bitbucket
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=adampolyanskiy&show_icons=true&theme=tokyonight)
-
----
-
 ## 🔗 Let's Connect!
 
 Feel free to reach out via [email](mailto:adampolyanskiy@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com).
