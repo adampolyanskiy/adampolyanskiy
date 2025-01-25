@@ -1,7 +1,7 @@
 # Adam Polyanskiy
 
 C#/.NET Backend Developer | 5+ Years of Experience  
-📍 GMT+4 | 📧 [adampolyanskiy@gmail.com](mailto:adampolyanskiy@gmail.com)
+📍 GMT+4 | 📧 [adampolyanskiy@gmail.com](mailto:adampolyanskiy@gmail.com) |
 [LinkedIn](www.linkedin.com/in/adampolyanskiy) | [GitHub](https://github.com/adampolyanskiy)
 
 ---
