@@ -1,94 +1,67 @@
 # Adam Polyanskiy
 
-C#/.NET Backend Developer | 5+ Years of Experience  
-📍 GMT+4 | 📧 [adampolyanskiy@gmail.com](mailto:adampolyanskiy@gmail.com) |
-[LinkedIn](https://linkedin.com/in/adampolyanskiy/) | [GitHub](https://github.com/adampolyanskiy/)
+**Senior C#/.NET Backend Developer** | 5+ years of experience  
+📍 Linz, Austria (GMT+1) | 🔖 Authorized to work in Austria
+
+📧 [adampolyanskiy@gmail.com](mailto:adampolyanskiy@gmail.com)  
+💼 [LinkedIn](https://www.linkedin.com/in/adampolyanskiy/)  
+🐙 [GitHub](https://github.com/adampolyanskiy)  
+📞 [+43 660 6709880](tel:+436606709880)
 
 ---
 
-## 👋 About Me
+## About
 
-I am a C#/.NET Backend Developer with over 5 years of professional experience in building scalable, secure, and maintainable solutions. I have contributed to teams ranging from 2 to 20 members in agile environments, both on-site and remotely. With 1 year of team-leading experience, I take pride in mentoring junior developers and fostering collaborative work environments.
-
-I specialize in containerization, cloud deployments, CI/CD pipelines, testing, and analytics. I’m passionate about the .NET ecosystem and constantly stay updated with modern tools, frameworks, and best practices. My familiarity with modern frontend frameworks ensures seamless collaboration across teams and effective end-to-end delivery of production-ready systems.
+**Senior** C#/.NET developer with **5+ years** in **ERP**, **BI**, **IoT telemetry**, and **HR Tech**. Strong in **microservices**, **distributed systems**, and **event-driven architectures**. Specialized in scalable backend services, real-time data processing, system observability, and full **SDLC** delivery including **CI/CD**, testing, and AWS deployments.
 
 ---
 
-## 💻 Skills
+## Skills
 
-### Backend & .NET
-- C#, .NET 6+, ASP.NET Core
-- Microservices, Entity Framework Core
-- PostgreSQL, Redis
-- MSTest, xUnit
-- OpenID, OAuth 2.0
-- RESTful APIs, SignalR, WebSockets
+**Backend:**  
+C#, .NET 6+, ASP.NET Core, EF Core, Dapper, MediatR, AutoMapper, FluentValidation, REST APIs, gRPC, WebSockets/SignalR, OAuth2/OpenID, xUnit/NUnit/MSTest, Testcontainers, Serilog, PostgreSQL, SQL Server, Redis, NoSQL, ClickHouse, Hangfire, Quartz.NET
 
-### Cloud & DevOps
-- Azure (App Services, Azure Functions, Azure SQL Database)
-- AWS (EC2, Lambda, S3, RDS, ECS/EKS)
-- Docker, Kubernetes
-- RabbitMQ, Kafka
-- Jenkins, GitLab, Bitbucket
-- Grafana, Elasticsearch
+**Cloud & DevOps:**  
+Docker, Kubernetes, AWS, Terraform, GitLab CI/CD, Jenkins, Prometheus, Grafana, Datadog, ELK stack, RabbitMQ, Kafka, NGINX, IIS
 
-### Other
-- Angular, React, Vue.js
-- HTML, CSS, JavaScript/TypeScript
-- Agile/Scrum Methodologies
-- Swagger, Postman
+**Other:**  
+Swagger/OpenAPI, Postman, Agile/Scrum
 
 ---
 
-## 🏆 Experience
+## Experience
 
-### **[Eyeride](https://www.eyerideonline.com)**  
-_08/2022 – Present (2.5+ Years)_  
-**Role**: .NET Backend Developer  
+### Senior .NET Developer — [EPAM Systems](https://www.epam.com/) *(Team of 7)*
+**Oct 2024 – Nov 2025 · 1 yr 2 mos** | Hybrid
 
-- Enhanced .NET microservices by optimizing architecture, reducing resource usage by **31.8%** during high-load periods.
-- Migrated on-premises microservices to cloud, leveraging AWS Lambda for serverless execution, cutting infrastructure costs by **12.4%**.
-- Developed a simulation tool for vehicle telemetry data, reducing post-release bugs by **13.2%**.
-- Integrated Grafana for real-time microservices performance monitoring, streamlining access to insights.
-- Designed a custom authorization server supporting Google, Apple, and Microsoft authentication, reducing login-related tickets by **12.5%**.
-
-_Technologies_: C#, .NET 6+, ASP.NET Core, Docker, Kubernetes, Grafana, Elasticsearch, AWS, MSTest, Jenkins, Angular
+- Delivered a new API replicating legacy interfaces on modern infrastructure, improving system stability and reducing maintenance effort.
+- Consolidated requirements and documentation from 5+ teams, establishing a single source of truth and reducing onboarding time for new developers by **25–30%**.
+- Integrated the new API into the enterprise data pipeline, enabling decommissioning of legacy components and lowering infrastructure and support costs by an estimated **5–10%**.
 
 ---
 
-### **[Axoft](https://www.axoft.ru)**  
-_08/2020 – 07/2022 (2 Years)_  
-**Role**: .NET Backend Developer  
+### Senior .NET Developer — [EYERIDE LLC](http://eyeride.io/) *(Team of 10)*
+**Sep 2021 – Oct 2024 · 3 yrs 2 mos** | Remote (Austin, TX)
 
-- Led the development of a BI web application using .NET and React.
-- Designed a real-time service availability notification system, reducing downtime-related support tickets by **51.5%**.
-- Increased code coverage by **25-30%** through MSTest implementation, reducing bugs significantly.
-- Refactored a monolithic backend into Docker containerized microservices deployed on Azure Cloud, reducing deployment time by **27.9%**.
-
-_Technologies_: C#, .NET 6+, ASP.NET Core, Docker, Azure, MSTest, PostgreSQL, Vue, React
+- Enhanced microservices with replication and architectural optimization, improving system resilience and reducing resource usage by **31.8%**.
+- Built a telemetry simulation tool supporting load and chaos testing, identifying bottlenecks pre-production and reducing post-release issues by **13.2%**.
+- Integrated Grafana dashboards for real-time monitoring, enabling cross-service performance tracking and early issue detection based on company-wide metrics.
 
 ---
 
-### **[Payever](https://www.getpayever.com)**  
-_06/2019 – 08/2020 (1 Year)_  
-**Role**: .NET Developer  
+### Middle .NET Developer — [Axoft JSC](https://axoftglobal.ru/) *(Team of 10)*
+**Aug 2020 – Sep 2021 · 1 yr 2 mos** | Hybrid
 
-- Developed an installment payment service, increasing successful checkouts by **13.3%**.
-- Built an automated link reminder system, reducing abandoned payments by **8.2%**.
-
-_Technologies_: C#, ASP.NET Core, RabbitMQ, HTML, CSS, Angular, xUnit, Bitbucket
-
----
-
-## 🎓 Education
-
-- **Tomsk State University (Master's)**, 2021 – 2023  
-  _Computer Science_
-- **TUSUR (Bachelor's)**, 2017 – 2021  
-  _Engineering_
+- Developed a BI web app using .NET and React for real-time business analytics.
+- Built a real-time service availability system using SignalR/WebSockets, reducing support tickets by **51.5%**.
+- Increased code coverage by **25–30%** through NUnit automation.
+- Implemented Redis caching improving latency by **~30%** and reducing PostgreSQL load by **~20%**.
+- Migrated a legacy monolith to Docker microservices, reducing deployment time by **27.9%**.
 
 ---
 
-## 🔗 Let's Connect!
+## Education
 
-Feel free to reach out via [email](mailto:adampolyanskiy@gmail.com) or connect with me on [LinkedIn](https://linkedin.com/in/adampolyanskiy/).
+**Bachelor's degree, Computer Science**  
+Tomsk State University of Control Systems and Radioelectronics  
+*Sep 2017 – Jun 2021*
