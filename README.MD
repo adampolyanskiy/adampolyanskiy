@@ -1,12 +1,11 @@
 # Adam Polyanskiy
 
 **Senior C#/.NET Backend Developer** | 5+ years of experience  
-📍 Linz, Austria (GMT+1) | 🔖 Authorized to work in Austria
+📍 Austria (GMT+1)
 
 📧 [adampolyanskiy@gmail.com](mailto:adampolyanskiy@gmail.com)  
 💼 [LinkedIn](https://www.linkedin.com/in/adampolyanskiy/)  
-🐙 [GitHub](https://github.com/adampolyanskiy)  
-📞 [+43 660 6709880](tel:+436606709880)
+🐙 [GitHub](https://github.com/adampolyanskiy)
 
 ---
 
